@@ -1,6 +1,8 @@
 # Laggron
 Web interface to manage routes to working with multiple LAN access.
 
+Infos about the context: https://lilian.bazille.me/dualWan/
+
 ## Installation
 Instructions for Debian 9.
 
